@@ -1,0 +1,10 @@
+Bild vom Neuron: https://www.informatik-aktuell.de/betrieb/kuenstliche-intelligenz/neuronale-netze-ein-blick-in-die-black-box.html
+Bild neuronales Netz: https://datasolut.com/neuronale-netzwerke-einfuehrung/
+Bild CNN Schema: https://de.mathworks.com/videos/introduction-to-deep-learning-what-are-convolutional-neural-networks--1489512765771.html
+Faktoren für Bilddokumaentation: 
+https://www.kvno.de/fileadmin/shared/pdf/online/genehmigungen/ultraschall/sonografie_dokupruefung.pdf
+
+https://vitalflux.com/keras-categorical-cross-entropy-loss-function/
+
+https://learn.microsoft.com/de-de/archive/msdn-magazine/2019/april/artificially-intelligent-how-do-neural-networks-learn
+
