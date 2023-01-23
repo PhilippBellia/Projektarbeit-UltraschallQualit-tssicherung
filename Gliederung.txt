@@ -1,0 +1,9 @@
+Einführung zur Aufgabenstellung 
+
+Grundlagen 
+- Neuron 
+- neuronales Netz 
+- die richte Form und Art eines NN 
+
+Datenaufbereitung 
+
