@@ -8,3 +8,7 @@ https://vitalflux.com/keras-categorical-cross-entropy-loss-function/
 
 https://learn.microsoft.com/de-de/archive/msdn-magazine/2019/april/artificially-intelligent-how-do-neural-networks-learn
 
+Mask-R-CNN Quellen 
+https://www.tensorflow.org/api_docs/python/tf/keras/applications/resnet50/ResNet50
+https://www.datacenter-insider.de/was-ist-resnet50-a-1107209/#:~:text=Die%20Zahl%20hinter%20dem%20Begriff,50%20Schichten%20(Layern)%20handelt.
+https://towardsdatascience.com/the-annotated-resnet-50-a6c536034758
