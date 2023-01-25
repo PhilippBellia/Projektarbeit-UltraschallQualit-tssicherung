@@ -3,6 +3,7 @@ Bild neuronales Netz: https://datasolut.com/neuronale-netzwerke-einfuehrung/
 Bild CNN Schema: https://de.mathworks.com/videos/introduction-to-deep-learning-what-are-convolutional-neural-networks--1489512765771.html
 Faktoren für Bilddokumaentation: 
 https://www.kvno.de/fileadmin/shared/pdf/online/genehmigungen/ultraschall/sonografie_dokupruefung.pdf
+https://www.kvsaarland.de/qualitatssicherung/-/asset_publisher/QCPVl2mI8T7d/content/id/569901?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_QCPVl2mI8T7d_redirect=https%3A%2F%2Fwww.kvsaarland.de%2Fqualitatssicherung%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_QCPVl2mI8T7d%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_QCPVl2mI8T7d_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_QCPVl2mI8T7d_assetEntryId%3D569901
 
 https://vitalflux.com/keras-categorical-cross-entropy-loss-function/
 
@@ -12,3 +13,7 @@ Mask-R-CNN Quellen
 https://www.tensorflow.org/api_docs/python/tf/keras/applications/resnet50/ResNet50
 https://www.datacenter-insider.de/was-ist-resnet50-a-1107209/#:~:text=Die%20Zahl%20hinter%20dem%20Begriff,50%20Schichten%20(Layern)%20handelt.
 https://towardsdatascience.com/the-annotated-resnet-50-a6c536034758
+
+
+Quellen zu U-Net: 
+https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
