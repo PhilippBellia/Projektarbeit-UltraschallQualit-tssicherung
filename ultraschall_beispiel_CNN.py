@@ -1,5 +1,5 @@
 ## **Importierte** **Bibliotheken**
-"""
+
 
 import tensorflow as tf
 from tensorflow import keras 
@@ -10,7 +10,7 @@ from tensorflow.keras.layers import InputLayer, Dense, Conv2D, MaxPooling2D, Bat
 import cv2 as cv
 from tensorflow.keras.datasets import mnist
 
-"""## **Dataset laden** """
+## **Dataset laden**
 
 (x_train, y_train), (x_test, y_test) = mnist.load_data()
 

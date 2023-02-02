@@ -15,5 +15,3 @@ https://www.datacenter-insider.de/was-ist-resnet50-a-1107209/#:~:text=Die%20Zahl
 https://towardsdatascience.com/the-annotated-resnet-50-a6c536034758
 
 
-Quellen zu U-Net: 
-https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
